@@ -7,7 +7,7 @@
 const updateAccesssTokenURL = "https://auth.aliyundrive.com/v2/account/token"
 const signinURL = "https://member.aliyundrive.com/v1/activity/sign_in_list"
 const refreshToeknArry = [
-    "ba321def29df40649a19f8b5e57200c7",
+    "",
     ""
     ]
 
